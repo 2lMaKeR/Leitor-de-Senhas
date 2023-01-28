@@ -8,5 +8,7 @@ while (senhaD != senhaV && cont <= 3){
 if(senhaD==senhaV){ 
     document.write("Senha correta.")
 }else{
-    document.write("Acesso bloqueado")
+    window.alert("Acesso negado.")
+    //document.write("Acesso negado.")
+    window.close() // comitar fechamento
 }
