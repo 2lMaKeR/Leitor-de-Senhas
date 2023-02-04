@@ -1,6 +1,6 @@
 # Leitor de Senha
  o Leitor de Senha é um sistema de senha feito em JS e aplicado inicialmente em HTML.
- Inicialmente utilizado para aplicar senhas em sites, elitizando acesso
+ Inicialmente utilizado para aplicar senhas em sites, elitizando acessos.
  
  ## Índice
 
